@@ -30,3 +30,4 @@ Bot Framework를 실습해보기 위해 C# 으로 작성한 Bot 입니다.
 ![bot6](images/bot6.png)
 
 
+test
